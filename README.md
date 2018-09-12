@@ -1,2 +1,1 @@
 # InSpirit
-# InSpirit
